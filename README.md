@@ -6,3 +6,4 @@ Practice working with Git branches.
 
 hi hi
 hi
+## Hi I want to create conflict
